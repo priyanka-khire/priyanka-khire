@@ -1,8 +1,8 @@
 <h1>Hey there 👋🏽</h1>
 I am Priyanka, and I currently work at Compass 🧭
 
-<h1>Blog</h1>
-You can read about my travel adventures on priyankakhire.com
+<h1>Travel 🗺️</h1>
+You can read about my travel adventures on my <a href="https://priyankakhire.com">website</a> ✈️
 
 
 <!---
